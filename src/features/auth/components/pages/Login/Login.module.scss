@@ -1,0 +1,42 @@
+.login{
+  padding: 40px 0 0;
+  width: 100%;
+  height: 100%;
+
+  &__form{
+    margin: 56px 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+    &__title{
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      h1{
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: 0.13px;
+      }
+    }
+
+    &__redirect{
+      text-align: end;
+      color: #436BFD;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+    }
+  }
+
+  &__buttons{
+    margin: 24px 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+}

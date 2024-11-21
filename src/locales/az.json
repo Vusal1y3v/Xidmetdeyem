@@ -1,0 +1,71 @@
+{
+  "auth": {
+    "login": {
+      "title": "Giriş",
+      "tabs": {
+        "login": "Giriş",
+        "sign__up": "Qeydiyyat"
+      },
+      "inputs": {
+        "email": {
+          "label": "Elektron poçt",
+          "placeholder": "you@site.com"
+        },
+        "password": {
+          "label": "Şifrə",
+          "placeholder": "************"
+        }
+      },
+      "buttons": {
+        "forget": "Şifrəni unutdunuz?",
+        "sign__in": "Giriş",
+        "quotation": "Qiymət təklifi"
+      }
+    },
+    "register": {
+      "title": "Qeydiyyat",
+      "tabs": {
+        "company": "Şirkət",
+        "individual": "Fiziki şəxs"
+      },
+      "inputs": {
+        "full__name": {
+          "label": "Ad Soyad",
+          "placeholder": "Ad Soyad"
+        },
+        "company": {
+          "label": "Şirkət",
+          "placeholder": "Şirkət adı"
+        },
+        "email": {
+          "label": "Elektron poçt",
+          "placeholder": "example@example.com"
+        },
+        "phone": {
+          "label": "Telefon nömrəsi",
+          "placeholder": "+994-123-45-67"
+        },
+        "password": {
+          "label": "Şifrə",
+          "placeholder": "**************"
+        },
+        "re__password": {
+          "label": "Şifrəni təkrar daxil edin",
+          "placeholder": "**************"
+        },
+        "tin__code": {
+          "label": "TIN Kodu",
+          "placeholder": "TIN Kodu"
+        },
+        "fin__code": {
+          "label": "FIN Kodu",
+          "placeholder": "FIN Kodu"
+        }
+      },
+      "buttons": {
+        "redirect": "Girişə qayıt",
+        "next": "Növbəti"
+      }
+    }
+  }
+}
